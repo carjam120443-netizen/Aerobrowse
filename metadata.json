@@ -1,0 +1,6 @@
+{
+  "name": "AeroBrowse",
+  "description": "Privacy-first Android web browser with DuckDuckGo default search and start page, tracker blocking, and customizable Frutiger Aero glass themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
